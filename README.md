@@ -8,7 +8,7 @@ https://shrouded-everglades-16509.herokuapp.com/
 
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 ## Description
-Provide a place to search for books.
+Provide a place to search for books.  
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
