@@ -12,7 +12,7 @@
     "seed": "cd server && npm run seed",
     "heroku-postbuild": "cd client && npm run build"
   },
-  "repository": {
+  "repository": { 
     "type": "git",
     "url": "https://github.com/bstanfield1992/Book-Search"
   },
