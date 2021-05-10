@@ -20,9 +20,9 @@
   "author": "Izabela Petrovicova",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/izabelacloud/Book-Search-Engine/issues"
+    "url": "https://github.com/bstanfield1992/Book-Search"
   },
-  "homepage": "https://github.com/izabelacloud/Book-Search-Engine#readme",
+  "homepage": "https://github.com/bstanfield1992/Book-Search",
   "dependencies": {
     "if-env": "^1.0.4"
   },
